@@ -1,4 +1,4 @@
 Subfolder/exact_file.log
 Subfolder/
 *.txt
-Data/
+Data/*
